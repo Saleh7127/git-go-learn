@@ -1,2 +1,2 @@
 # git-learn
-git learn appscode
+git & go learn appscode
